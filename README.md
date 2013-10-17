@@ -1,24 +1,13 @@
 # rickrollrc
 
 Bash script which [rickrolls](http://en.wikipedia.org/wiki/Rickrolling) your
-terminal by playing Rick Astley’s “Never Gonna Give You Up” with ANSI 256-color
-coded UTF-8 characters + audio (if available).
+terminal..
 
 ## How to Roll
 To start rickrollin’ immediately:
 
-    curl -s https://raw.github.com/keroserene/rickrollrc/master/roll.sh | bash
+    curl -s https://raw.github.com/volcomism/rickrollrc/master/roll.sh | bash
 
-Here is the clandestine command you can give to your friends 😈
-
-    curl -L http://bit.ly/10hA8iC | bash
-
-![rickroll in xterm](http://i.imgur.com/ZAsQWtP.png)
-![rickroll in mac](http://i.imgur.com/yDLaZna.png)
-
-For the record: It is not actually a good idea to make a habit of
-
-    curl $(random_script_from_the_internets) | bash"
 
 Nevertheless, for the enhanced experience, I highly recommend the following:
 
