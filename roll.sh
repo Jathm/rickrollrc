@@ -1,12 +1,13 @@
 #!/bin/bash
-# <3
+# Rick Astley in your Terminal.
+# By Serene Han and Justine Tunney <3
 version='1.1'
 bean='http://bean.vixentele.com/~keroserene'
 video="$bean/astley80.full.bz2"
-audio_gsm="https://www.dropbox.com/s/wxsra8gqkuqz69c/Baby_Beluga_-_Raffi.wav"
+audio_gsm="$bean/roll.gsm.wav"
 audio_raw="$bean/roll.s16"
 audpid=0
-NEVER_GONNA='curl -s -L https://github.com/Jathm/rickrollrc/edit/master/roll.sh | bash'
+NEVER_GONNA='curl -s -L http://bit.ly/10hA8iC | bash'
 MAKE_YOU_CRY="$HOME/.bashrc"
 red='\x1b[38;5;9m'
 yell='\x1b[38;5;216m'
